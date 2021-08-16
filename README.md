@@ -1,8 +1,7 @@
 # DesignCode-SwiftUI
 A multi-platform app for iOS, iPadOS and macOS from the Design and Code course [Build a SwiftUI app for iOS 14](https://designcode.io/swiftui2-course)
 
-![Screen_Shot_2020-07-13_at_3 21 54_PM](https://user-images.githubusercontent.com/2423459/129508976-817689de-80dc-4f67-8259-cafaa01f5c58.jpg)
-
+![image](https://user-images.githubusercontent.com/2423459/129512548-b2a7376f-087c-4690-82ec-8f79c3355ce4.png)
 
 # Requirements
 - iOS 14
